@@ -41,7 +41,6 @@
                     <img class="img-responsive img-border img-left" src="img/tent.jpg" alt="">
                     <hr class="visible-xs">
 <p>Plenty of campgrounds</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
                 </div>
             </div>
         </div>
