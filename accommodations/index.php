@@ -11,8 +11,7 @@
                     <hr>
                 </div>
                 <div class="col-md-8">
-                    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2692.74860978503!2d-120.68271858437139!3d47.55322127918115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549a4e8a646e462d%3A0x32b3f0e56606e794!2sSleeping+Lady+Resort!5e0!3m2!1sen!2sus!4v1474146152119" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2692.74860978503!2d-120.68271858437139!3d47.55322127918115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549a4e8a646e462d%3A0x32b3f0e56606e794!2sSleeping+Lady+Resort!5e0!3m2!1sen!2sus!4v1474146152119" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
                     <p>Phone:
@@ -29,6 +28,26 @@
                 <div class="clearfix"></div>
             </div>
         </div>
+
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Camping in 
+                        <strong>Icicle Canyon</strong>
+                    </h2>
+                    <hr>
+                    <img class="img-responsive img-border img-left" src="img/tent.jpg" alt="">
+                    <hr class="visible-xs">
+<p>Plenty of campgrounds</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                </div>
+            </div>
+        </div>
+
+
+
 
     </div>
     <!-- /.container -->

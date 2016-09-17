@@ -36,6 +36,13 @@ hr {
     border-color: #999999;
 }
 
+/* for the map*/
+iframe {
+    width:100%;
+    max-width: 600px;
+    height: 450px;
+}
+
 .brand,
 .address-bar {
     display: none;
