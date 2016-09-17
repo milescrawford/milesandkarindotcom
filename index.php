@@ -34,13 +34,13 @@
                         </a>
                     </div>
                     <h2 class="brand-before">
-                        <small>Welcome to</small>
+                        <small>The wedding of</small>
                     </h2>
-                    <h1 class="brand-name">Business Casual</h1>
+                    <h1 class="brand-name">Miles & Karin</h1>
                     <hr class="tagline-divider">
                     <h2>
-                        <small>By
-                            <strong>Start Bootstrap</strong>
+                        <small>Doop
+                            <strong>dee doo</strong>
                         </small>
                     </h2>
                 </div>
