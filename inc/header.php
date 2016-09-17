@@ -34,7 +34,7 @@
 <body>
 
     <div class="brand">Miles &amp; Karin</div>
-    <div class="address-bar">August 25-27th, Sleeping Lady Resort</div>
+    <div class="address-bar">August 25-27th, 2017</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -54,10 +54,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="">Home</a>
+                        <a href="">Miles & Karin</a>
                     </li>
                     <li>
-                        <a href="contact/">Contact</a>
+                        <a href="accommodations/">Accommodations</a>
                     </li>
                     <li>
                         <a href="rsvp/">RSVP</a>
