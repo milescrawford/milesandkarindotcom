@@ -36,7 +36,7 @@
                     <h2 class="brand-before">
                         <small>The wedding of</small>
                     </h2>
-                    <h1 class="brand-name">Miles & Karin</h1>
+                    <h1 class="brand-name">Miles Crawford<br>&amp;<br>Karin Kubischta</h1>
                     <hr class="tagline-divider">
                     <h2>
                         <small>Doop
@@ -111,18 +111,21 @@
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
+                        <br>
                         <small>Job Title</small>
                     </h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
+                        <br>
                         <small>Job Title</small>
                     </h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
+                        <br>
                         <small>Job Title</small>
                     </h3>
                 </div>
