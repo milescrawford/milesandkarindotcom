@@ -11,10 +11,11 @@
                     <hr>
                 </div>
                 <div class="col-md-8">
-<p>We would love all our guests to stay at the Sleeping Lady with us, though other options are available. All our events will be held on the grounds.</p>
+<p>We would love all our guests to stay at the Sleeping Lady with us, though other options are available. All our events will be held on the grounds, and the rates include breakfast on Saturday and Sunday.</p>
 <p>All rooms at the resort are held for our guests until late April, 2017. Please make your reservations before then to guarantee that a room will be available.</p>
-<p>Reserving by phone: Call 1-800-574-2123 and indicate that you attending the Crawford/Kubischta wedding, group number #9857.</p>
-<p>Reserving online: Log in to the <a href="https://res.sleepinglady.com/V1WebControls/GroupLogin.aspx">Sleeping Lady Group Reservation Page</a> using group ID 9857 and password 37007816.</p>
+<p>Feel free to arrange to share rooms if you'd like - rooms accomodating up to five people are available.</p>
+<p><strong>Reserving by phone:</strong> Call 1-800-574-2123 and indicate that you attending the Crawford/Kubischta wedding, group number #9857.</p>
+<p><strong>Reserving online:</strong> Log in to the <a href="https://res.sleepinglady.com/V1WebControls/GroupLogin.aspx">Sleeping Lady Group Reservation Page</a> using group ID 9857 and password 37007816.</p>
                     <p><strong>Sleeping Lady Resort</strong>
 <br>7375 Icicle Road<br>Leavenworth, WA. 98826
 <br>1-800-574-2123</p>
@@ -26,6 +27,21 @@
                 <div class="clearfix"></div>
             </div>
         </div>
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Staying in <strong>Leavenworth</strong>
+                    </h2>
+                    <hr>
+                    <img class="img-responsive img-border img-left" src="img/tent.jpg" alt="">
+                    <hr class="visible-xs">
+<p><a href="http://www.leavenworth.org/lodging">Many options</a> are available ten minutes away in Leavenworth.</p>
+                </div>
+            </div>
+        </div>
+
 
 
         <div class="row">

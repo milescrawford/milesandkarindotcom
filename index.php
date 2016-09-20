@@ -4,6 +4,16 @@
         <div class="row">
             <div class="box">
                 <div class="col-lg-12 text-center">
+                    <h2 class="brand-before">
+                        <small>The wedding of</small>
+                    </h2>
+                    <h1 class="brand-name">Miles Crawford<br>&amp;<br>Karin Kubischta</h1>
+                    <hr class="tagline-divider">
+                    <h2>
+                        <small>Doop
+                            <strong>dee doo</strong>
+                        </small>
+                    </h2>
                     <div id="carousel-example-generic" class="carousel slide">
                         <!-- Indicators -->
                         <ol class="carousel-indicators hidden-xs">
@@ -33,16 +43,7 @@
                             <span class="icon-next"></span>
                         </a>
                     </div>
-                    <h2 class="brand-before">
-                        <small>The wedding of</small>
-                    </h2>
-                    <h1 class="brand-name">Miles Crawford<br>&amp;<br>Karin Kubischta</h1>
-                    <hr class="tagline-divider">
-                    <h2>
-                        <small>Doop
-                            <strong>dee doo</strong>
-                        </small>
-                    </h2>
+
                 </div>
             </div>
         </div>
