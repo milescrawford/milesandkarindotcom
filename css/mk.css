@@ -30,11 +30,15 @@ hr {
     border-color: #999999;
 }
 
-/* for the map*/
-iframe {
+iframe.rsvp {
     width:100%;
-    max-width: 600px;
-    height: 450px;
+    height: 1200px;
+    top-margin: -200px;
+}
+    
+iframe.map {
+    width:100%;
+    height: 400px;
 }
 
 .brand,
