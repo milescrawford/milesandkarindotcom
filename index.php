@@ -63,7 +63,7 @@
                     <p>The weekend of August 25th through 27th, 2017.</p>
                     <p>A welcoming dinner will be held on Friday night.</p>
 <p>The ceremony will begin at 4:00pm on Saturday, with reception to follow. </p>
-<p>Breakfasts and outings the whole weekend.</p>
+<p>Breakfasts and outings the whole weekend!</p>
                 </div>
 
                 <div class="col-md-6">
@@ -72,9 +72,10 @@
 All events will be held on the grounds of:
 </p>
                     <p>
+<a href="https://goo.gl/maps/qf9QSGW7DKL2" target="_blank">
                     Sleeping Lady Resort<br>
                     7375 Icicle Road<br>
-                    Leavenworth, WA. 98826 
+                    Leavenworth, WA. 98826</a> 
                     </p>
                 </div>
 
@@ -83,7 +84,7 @@ All events will be held on the grounds of:
 
 <hr>
                 <div class="col-lg-12 text-center">
-                    <p>Please <a href="rsvp/">RSVP</a> and reserve your room at <a href="accommodations/">The Sleeping Lady</a>.</p>
+                    <p>Please <a href="rsvp/">RSVP</a> and <a href="accommodations/">reserve your room</a> before May 2017.</p>
                 </div>
             </div>
         </div>
