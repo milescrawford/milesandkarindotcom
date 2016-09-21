@@ -32,8 +32,8 @@ hr {
 
 iframe.rsvp {
     width:100%;
+    max-width:600px;
     height: 1200px;
-    top-margin: -200px;
 }
     
 iframe.map {
@@ -106,7 +106,7 @@ iframe.map {
     float: none;
     margin: 0 auto 0;
     max-height:200px;
-    max-width:400px;
+    max-width:300px;
 }
 
 footer {
