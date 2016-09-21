@@ -30,11 +30,15 @@ hr {
     border-color: #999999;
 }
 
-/* for the map*/
-iframe {
+iframe.rsvp {
     width:100%;
-    max-width: 600px;
-    height: 450px;
+    height: 1200px;
+    top-margin: -200px;
+}
+    
+iframe.map {
+    width:100%;
+    height: 400px;
 }
 
 .brand,
@@ -101,6 +105,8 @@ iframe {
 .img-left {
     float: none;
     margin: 0 auto 0;
+    max-height:200px;
+    max-width:400px;
 }
 
 footer {
@@ -110,7 +116,7 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 50px 0;
+    padding: 10px 0;
 }
 
 @media screen and (min-width:768px) {
@@ -182,9 +188,6 @@ footer p {
         table-layout: fixed;
         font-size: 1.25em;
     }
-}
-
-@media screen and (min-width:1200px) {
     .box:after {
         content: '';
         display: table;

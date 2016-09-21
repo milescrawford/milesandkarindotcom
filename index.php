@@ -4,6 +4,16 @@
         <div class="row">
             <div class="box">
                 <div class="col-lg-12 text-center">
+                    <h2 class="brand-before">
+                        <small>The wedding of</small>
+                    </h2>
+                    <h1 class="brand-name">Miles Crawford<br>&amp;<br>Karin Kubischta</h1>
+                    <hr class="tagline-divider">
+                    <h2>
+                        <small>Doop
+                            <strong>dee doo</strong>
+                        </small>
+                    </h2>
                     <div id="carousel-example-generic" class="carousel slide">
                         <!-- Indicators -->
                         <ol class="carousel-indicators hidden-xs">
@@ -15,13 +25,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="img-responsive img-full" src="img/slide-1.jpg" alt="">
+                                <img class="img-responsive img-full" src="img/feets.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-2.jpg" alt="">
+                                <img class="img-responsive img-full" src="img/mountains.jpg" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-3.jpg" alt="">
+                                <img class="img-responsive img-full" src="img/moss.jpg" alt="">
                             </div>
                         </div>
 
@@ -33,16 +43,7 @@
                             <span class="icon-next"></span>
                         </a>
                     </div>
-                    <h2 class="brand-before">
-                        <small>The wedding of</small>
-                    </h2>
-                    <h1 class="brand-name">Miles & Karin</h1>
-                    <hr class="tagline-divider">
-                    <h2>
-                        <small>Doop
-                            <strong>dee doo</strong>
-                        </small>
-                    </h2>
+
                 </div>
             </div>
         </div>
@@ -111,18 +112,21 @@
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
+                        <br>
                         <small>Job Title</small>
                     </h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
+                        <br>
                         <small>Job Title</small>
                     </h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <h3>John Smith
+                        <br>
                         <small>Job Title</small>
                     </h3>
                 </div>
