@@ -53,13 +53,36 @@
 
         <div class="row">
             <div class="box">
-
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">Come <strong>celebrate</strong> with us</h2>
                     <hr>
-</div>
-<div class="col-lg-12">
+                </div>
+                <div class="col-md-6">
+<p><strong>When</strong></p>
+                    <p>The weekend of August 25th through 27th, 2017.</p>
+                    <p>A welcoming dinner will be held on Friday night.</p>
+<p>The ceremony will begin at 4:00pm on Saturday, with reception to follow. </p>
+<p>Breakfasts and outings the whole weekend.</p>
+                </div>
+
+                <div class="col-md-6">
+<p><strong>Where</strong></p>
+<p>
+All events will be held on the grounds of:
+</p>
+                    <p>
+                    Sleeping Lady Resort<br>
+                    7375 Icicle Road<br>
+                    Leavenworth, WA. 98826 
+                    </p>
+                </div>
+
+
+<div class="clearfix"></div>
+
+<hr>
+                <div class="col-lg-12 text-center">
                     <p>Please <a href="rsvp/">RSVP</a> and reserve your room at <a href="accommodations/">The Sleeping Lady</a>.</p>
                 </div>
             </div>
