@@ -23,10 +23,6 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
 
   $urlRouterProvider.otherwise('/');
 
-  $locationProvider.html5Mode({
-    enabled: true,
-    requireBase: false
-  });
 }).
 
 controller('HomeCtrl', ['$scope', function($scope) {
