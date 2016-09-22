@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="mk">
+<html lang="en">
 
 <head>
 
@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>Miles and Karin's Wedding</title>
+   <BASE href="/test/">
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -47,19 +48,19 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" ui-sref="home">Miles & Karin</a>
+                <a class="navbar-brand" href="">Miles & Karin</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a ui-sref="home">Miles & Karin</a>
+                        <a href="">Miles & Karin</a>
                     </li>
                     <li>
-                        <a ui-sref="accommodations">Accommodations</a>
+                        <a href="accommodations/">Accommodations</a>
                     </li>
                     <li>
-                        <a ui-sref="rsvp">RSVP</a>
+                        <a href="rsvp/">RSVP</a>
                     </li>
                 </ul>
             </div>
@@ -68,42 +69,4 @@
         <!-- /.container -->
     </nav>
 
-    <div id="page-wrapper" class="container">
-      <div ui-view>
-      </div>
-    </div>
-    <!-- /.container -->
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p>We're getting married!</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Angular / Router -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js" charset="utf-8"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.1/angular-ui-router.min.js" charset="utf-8"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
-    <!-- Angular App -->
-    <script src="js/mk.js" charset="utf-8"></script>
-
-    <!-- Script to Activate the Carousel -->
-    <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
-    </script>
-
-</body>
-
-</html>
