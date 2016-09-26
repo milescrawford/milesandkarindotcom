@@ -15,6 +15,11 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
       templateUrl: 'partials/accommodations.html',
       controller : 'AccommodationsCtrl',
     })
+    .state('registry', {
+      url: '/registry',
+      templateUrl: 'partials/registry.html',
+      controller : 'RegistryCtrl',
+    })
     .state('rsvp', {
       url: '/rsvp',
       templateUrl: 'partials/rsvp.html',
@@ -47,4 +52,7 @@ controller('AccommodationsCtrl', ['$scope', function($scope) {}
 ]).
 
 controller('RSVPCtrl', ['$scope', function($scope) {}
+]);
+
+controller('RegistryCtrl', ['$scope', function($scope) {}
 ]);
