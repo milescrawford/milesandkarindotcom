@@ -122,6 +122,18 @@ footer p {
 }
 
 @media screen and (min-width:768px) {
+
+.vcenter-parent {
+    display:table;
+    table-layout:fixed;
+}
+.vcenter {
+    display: table-cell;
+    vertical-align: middle;
+    float:none;
+}
+
+
     .brand {
         display: inherit;
         margin: 0;
