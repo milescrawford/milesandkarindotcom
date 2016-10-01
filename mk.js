@@ -48,11 +48,6 @@ controller('HomeCtrl', ['$scope', function($scope) {
 }
 ]).
 
-controller('AccommodationsCtrl', ['$scope', function($scope) {}
-]).
-
-controller('RSVPCtrl', ['$scope', function($scope) {}
-]);
-
-controller('RegistryCtrl', ['$scope', function($scope) {}
-]);
+controller('AccommodationsCtrl', ['$scope', function($scope) {} ]).
+controller('RSVPCtrl', ['$scope', function($scope) {} ]).
+controller('RegistryCtrl', ['$scope', function($scope) {} ]);
