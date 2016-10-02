@@ -30,24 +30,7 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
 
 }).
 
-controller('HomeCtrl', ['$scope', function($scope) {
-  $scope.photos = [
-    {
-      "name": "Yosemite",
-      "url": "img/ideas/us/yosemite.jpg"
-    },
-    {
-      "name": "Switzerland",
-      "url": "img/ideas/us/switzerland.jpg"
-    },
-    {
-      "name": "St. Helens",
-      "url": "img/ideas/us/sthelens.jpg"
-    }
-  ];
-}
-]).
-
+controller('HomeCtrl', ['$scope', function($scope) {} ]).
 controller('AccommodationsCtrl', ['$scope', function($scope) {} ]).
 controller('RSVPCtrl', ['$scope', function($scope) {} ]).
 controller('RegistryCtrl', ['$scope', function($scope) {} ]);
