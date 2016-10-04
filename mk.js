@@ -30,6 +30,12 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
 
 }).
 
+run(function($rootScope){
+  $rootScope.$on('$stateChangeSuccess', function() {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
+}).
+
 controller('HomeCtrl', ['$scope', function($scope) {} ]).
 controller('AccommodationsCtrl', ['$scope', function($scope) {} ]).
 controller('RSVPCtrl', ['$scope', function($scope) {} ]).
