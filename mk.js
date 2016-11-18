@@ -20,6 +20,11 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
       templateUrl: 'partials/registry.html',
       controller : 'RegistryCtrl',
     })
+    .state('photos', {
+      url: '/photos',
+      templateUrl: 'partials/photos.html',
+      controller : 'PhotosCtrl',
+    })
     .state('rsvp', {
       url: '/rsvp',
       templateUrl: 'partials/rsvp.html',
@@ -39,4 +44,5 @@ run(function($rootScope){
 controller('HomeCtrl', ['$scope', function($scope) {} ]).
 controller('AccommodationsCtrl', ['$scope', function($scope) {} ]).
 controller('RSVPCtrl', ['$scope', function($scope) {} ]).
+controller('PhotosCtrl', ['$scope', function($scope) {} ]).
 controller('RegistryCtrl', ['$scope', function($scope) {} ]);
