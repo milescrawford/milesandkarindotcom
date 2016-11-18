@@ -90,6 +90,11 @@ iframe.map {
     background: rgba(255,255,255,0.9);
 }
 
+.photo-link {
+text-transform:none;
+margin:20px;
+}
+
 .intro-text {
     text-transform: uppercase;
     font-size: 1.25em;
