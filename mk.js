@@ -20,6 +20,11 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
       templateUrl: 'partials/registry.html',
       controller : 'RegistryCtrl',
     })
+    .state('photos', {
+      url: '/photos',
+      templateUrl: 'partials/photos.html',
+      controller : 'PhotosCtrl',
+    })
     .state('rsvp', {
       url: '/rsvp',
       templateUrl: 'partials/rsvp.html',
@@ -30,29 +35,14 @@ config(function ($stateProvider, $urlRouterProvider, $locationProvider) {
 
 }).
 
-controller('HomeCtrl', ['$scope', function($scope) {
-  $scope.photos = [
-    {
-      "name": "Yosemite",
-      "url": "img/ideas/us/yosemite.jpg"
-    },
-    {
-      "name": "Switzerland",
-      "url": "img/ideas/us/switzerland.jpg"
-    },
-    {
-      "name": "St. Helens",
-      "url": "img/ideas/us/sthelens.jpg"
-    }
-  ];
-}
-]).
+run(function($rootScope){
+  $rootScope.$on('$stateChangeSuccess', function() {
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
+  });
+}).
 
-controller('AccommodationsCtrl', ['$scope', function($scope) {}
-]).
-
-controller('RSVPCtrl', ['$scope', function($scope) {}
-]);
-
-controller('RegistryCtrl', ['$scope', function($scope) {}
-]);
+controller('HomeCtrl', ['$scope', function($scope) {} ]).
+controller('AccommodationsCtrl', ['$scope', function($scope) {} ]).
+controller('RSVPCtrl', ['$scope', function($scope) {} ]).
+controller('PhotosCtrl', ['$scope', function($scope) {} ]).
+controller('RegistryCtrl', ['$scope', function($scope) {} ]);
